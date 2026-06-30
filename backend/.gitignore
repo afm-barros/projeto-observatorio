@@ -1,0 +1,11 @@
+# Pastas pesadas que não devem ser enviadas
+venv/
+node_modules/
+__pycache__/
+.env
+*.db
+hop/lib/
+hop/plugins/
+.next/
+dist/
+build/

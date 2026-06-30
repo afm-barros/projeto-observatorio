@@ -1,0 +1,83 @@
+producoes_id,pesquisador_id,anoartigo,nomeartigo,issn
+1,1,2021,Inteligência Artificial e Virtualização em Ambientes Virtuais de Ensino e Aprendizagem: Desafios e Perspectivas Tecnológicas,16762592
+2,1,2020,"CENÁRIO DO GRUPO DE APOIO ÀS CRIANÇAS COM CÂNCER (GACC-BA): PROPOSTA DE UM AMBIENTE VIRTUAL COLABORATIVO COMO INSTRUMENTO DE INTERAÇÃO, PARTICIPAÇÃO E CONTRIBUIÇÃO PARA A INSTITUIÇÃO",23189584
+3,1,2020,"PROPOSTA DE (RE)DESIGN DO AMBIENTE EDUCATIVO FORMAL UNIVERSITÁRIO PARA ESTIMULAR UMA APRENDIZAGEM PROTAGONISTA, CRIATIVA E INOVADORA",21757534
+4,1,2020,Arquitetura da Informação Analítica para Integração de Dados da Pesquisa e Pós-Graduação: Um Estudo de Caso da Universidade do Estado da Bahia,19818920
+5,1,2020,"FACE SHIELD FOR LIFE 3D: PRODUÇÃO COLABORATIVA, USANDO A COMUNIDADE DE MAKERS, DOS PROTETORES FACIAIS PADRÃO RC3 PARA OS PROFISSIONAIS DE SAÚDE EM SALVADOR",23170026
+6,1,2020,A METHOD FOR ONTOLOGY MODELING BASED ON INSTANCES CONCEPTUAL CLASSIFICATION AND FORMALIZATION,22309926
+7,1,2020,ROBÓTICA EDUCACIONAL: CONSTRUÇÃO DE UMA DINÂMICA A PARTIR DO ROBÔ ARDU,18093957
+8,1,2020,Systemic arterial hypertension: treatment with Integrative and Complementary Health Practices,25253409
+9,1,2021,Programa de Ideias Inovadoras do IFBA: proposição de melhorias baseada em critérios de avaliação,23170026
+10,1,2021,"Spatial-temporal Correlation of Dengue Fever and Climatic Variables in the City of São Paulo, Brazil",25253409
+11,1,2021,Inteligência artificial em ambientes virtuais de ensino e aprendizagem: Uma proposta de modelo,25253409
+12,1,2021,Dinâmica de ensino baseada em fabricação digital e PBL para apoiar os professores de psicologia na apresentação do Teste de Pirâmide Colorida Pfister / Teaching dynamics based on digital fabrication and PBL to support psychology teachers in presenting the Pfister Color Pyramid Test,25956825
+13,1,2021,A teoria fundamentada em dados aplicada ao campo da educação superior,25253409
+14,1,2021,Analysis of Hydrous Ethanol Price Competitiveness after the Implementation of the Fossil Fuel Import Price Parity Policy in Brazil,20711050
+15,1,2022,Architectural design of classroom to stimulate learning in Higher Education,24112933
+16,1,2022,A Critical Analysis of the COVID-19 Hospitalization Network in Countries with Limited Resources,16604601
+17,1,2022,A Proposal for the Integration of the Energy Matrix from a Graph Theory Perspective,24112933
+18,1,2022,"Synchronized spread of COVID-19 in the cities of Bahia, Brazil",17554365
+19,1,2022,An evaluation model for accessibility conditions of salvador bus stops,24112933
+20,1,2022,"IMPRESSÃO 3D: DA PESQUISA AO SETOR PRODUTIVO Um estudo exploratório sobre sua evolução histórica, origem, tecnologias, aplicações e inovações",21788030
+21,1,2023,Portal de Acesso às Informações das Ações das Universidades Federais em Resposta à Pandemia de Covid-19: uma análise do período pandêmico até a transição para uma pós-pandemia,23170026
+22,1,2023,Desenvolvimento sustentável: uma proposta para descarbonização de frotas de veículos,21789010
+23,1,2023,APLICAÇÃO DE CONCEITOS E CRITÉRIOS DE DESEMPENHO PARA UMA SALA DE AULA INOVADORA,1981223X
+24,1,2022,SAÚDE PÚBLICA: PROSPECÇÃO TECNOLÓGICA DOS REGISTROS DE SOFTWARES PARA O COMBATE A DENGUE,23166517
+25,1,2023,Mapeamento científico e tecnológico sobre Impressão 3D,15411389
+26,1,2023,Maker Culture: dissemination of knowledge and development of skills and competencies for the 21st century,00105236
+27,1,2024,Difusão e utilização de informações acadêmicas: um modelo de gestão do conhecimento para subsidiar gestores universitários,15411389
+28,1,2024,"Solução para Mapeamento e Consulta das Competências dos Pesquisadores: uma arquitetura para extração, integração e consultas de informações acadêmicas",19831358
+29,1,2023,Diretrizes para o planejamento de um ambiente de aprendizagem neuroarqeducativo,19887833
+30,2,2020,"CENÁRIO DO GRUPO DE APOIO ÀS CRIANÇAS COM CÂNCER (GACCBA): PROPOSTA DE UM AMBIENTE VIRTUAL COLABORATIVO COMO INSTRUMENTO DE INTERAÇÃO, PARTICIPAÇÃO E CONTRIBUIÇÃO PARA A INSTITUIÇÃO",25254553
+31,2,2020,FACE SHIELD FOR LIFE 3D PRODUÇÃO COLABORATIVA USANDO A COMUNIDADE DE MAKERS DOS PROTETORES FACIAIS PADRÃO RC3 PARA OS PROFISSIONAIS DE SAÚDE EM SALVADOR,23170026
+32,2,2020,A METHOD FOR ONTOLOGY MODELING BASED ON INSTANCES CONCEPTUAL CLASSIFICATION AND FORMALIZATION,22309926
+33,2,2020,Systemic arterial hypertension: treatment with Integrative and Complementary Health Practices,25253409
+34,2,2020,ROBÓTICA EDUCACIONAL: CONSTRUÇÃO DE UMA DINÂMICA A PARTIR DO ROBÔ ARDU EDUCATIONAL ROBOTICS: BUILDING A DYNAMIC BASED ON ROBOT ARDU,18093957
+35,2,2020,"Juventudes, formação política e fake news: vida ou morte da participação sociopolítica?",25253409
+36,2,2020,Um olhar teórico-prático da difusão da inovação e Propriedade Intelectual,25253409
+37,2,2020,ROBÔS CIRÚRGICOS: PROSPECÇÃO DE PATENTES RELACIONADAS A APLICAÇÕES HUMANAS,25258761
+38,2,2021,Scaling effect in COVID-19 spreading: The role of heterogeneity in a hybrid ODE-network model with restrictions on the inter-cities flow,01672789
+39,2,2021,"Spatial-temporal Correlation of Dengue Fever and Climatic Variables in the City of São Paulo, Brazil",25253409
+40,2,2021,Implicações da desinformação e da infodemia no contexto da pandemia da Covid-19,25253409
+41,2,2021,Inteligência artificial em ambientes virtuais de ensino e aprendizagem: Uma proposta de modelo,25253409
+42,2,2021,Dinâmica de ensino baseada em fabricação digital e PBL para apoiar os professores de psicologia na apresentação do Teste de Pirâmide Colorida Pfister / Teaching dynamics based on digital fabrication and PBL to support psychology teachers in presenting the Pfister Color Pyramid Test,25956825
+43,2,2020,"Correlation between hospitalized patients? demographics, symptoms, comorbidities, and COVID-19 pandemic in Bahia, Brazil",19326203
+44,2,2021,Preparation of hybrid nanocomposite particles for medical practices,09277757
+45,2,2021,A teoria fundamentada em dados aplicada ao campo da educação superior,25253409
+46,2,2021,A spatio-temporal analysis of dengue spread in a Brazilian dry climate region,20452322
+47,2,2021,Analysis of Hydrous Ethanol Price Competitiveness after the Implementation of the Fossil Fuel Import Price Parity Policy in Brazil,20711050
+48,2,2022,A Critical Analysis of the COVID-19 Hospitalization Network in Countries with Limited Resources,16604601
+49,2,2022,Media Bios and Artificial Intelligence: the dark side of Fake News,24112933
+50,2,2022,A Proposal for the Integration of the Energy Matrix from a Graph Theory Perspective,24112933
+51,2,2022,"Synchronized spread of COVID-19 in the cities of Bahia, Brazil",17554365
+52,2,2022,Induction of a Consumption Pattern for Ethanol and Gasoline in Brazil,20711050
+53,2,2022,"IMPRESSÃO 3D: DA PESQUISA AO SETOR PRODUTIVO UM ESTUDO EXPLORATÓRIO SOBRE SUA EVOLUÇÃO HISTÓRICA, ORIGEM, TECNOLOGIAS, APLICAÇÕES E INOVAÇÕES",21788030
+54,2,2022,Retrospective Cohort Study of COVID-19 in Patients of the Brazilian Public Health System with SARS-CoV-2 Omicron Variant Infection,2076393X
+55,2,2022,Business Incubators and Sustainability: A Literature Review,23496495
+56,2,2022,Centroid model applied for energy scenarios in regions with limited resources,21757275
+57,2,2022,Renewable sources to promote well-being in poor regions of Brazil,2296424X
+58,2,2022,"Network analysis of spreading of dengue, Zika and chikungunya in the state of Bahia based on notified, confirmed and discarded cases",2296424X
+59,2,2022,Os jovens podem participar? Considerações acerca da participação e formação políticas juvenis,25253514
+60,2,2023,Complex network analysis of arboviruses in the same geographic domain: Differences and similarities,09600779
+61,2,2023,Paradox between adequate sanitation and rainfall in dengue fever cases,00489697
+62,2,2023,Desenvolvimento sustentável: uma proposta para descarbonização de frotas de veículos,21789010
+63,2,2023,Persistências e rupturas no estudo do Coronavírus após a epidemia da COVID-19,21789010
+64,2,2023,Uma Revisão Sistemática dos Indicadores da Saúde e Bem-Estar no Brasil: Cenário Atual e Perspectivas Futuras da Agenda 2030,21757275
+65,2,2022,SAÚDE PÚBLICA: PROSPECÇÃO TECNOLÓGICA DOS REGISTROS DE SOFTWARES PARA O COMBATE A DENGUE,23166517
+66,2,2023,Diretrizes para o planejamento de um ambiente de aprendizagem neuroarqeducativo,19887833
+67,2,2023,Aprendizagem organizacional: sinergia interdisciplinar nos saberes,15411389
+68,2,2023,Renewable Energy Generation Technologies for Decarbonizing Urban Vertical Buildings: A Path towards Net Zero,20711050
+69,2,2023,Mapeamento científico e tecnológico sobre Impressão 3D,15411389
+70,2,2023,Estudo da aplicação de algoritmos de machine learning na manutenção preditiva de motores elétricos,21789010
+71,2,2023,"Epidemiological outbreaks of dengue, chikungunya and zika from 2015 to 2019: Rio de Janeiro case",00105236
+72,2,2023,Maker Culture: dissemination of knowledge and development of skills and competencies for the 21st century,00105236
+73,2,2023,Comparison of multilayer perceptron neural network architecture in photovoltaic plants fault classification,00105236
+74,2,2024,The Importance of the Facility Location Techniques to Assist Companies in Decision-Making for the Installation of Logistics Hub,23293284
+75,2,2024,Scenarios and opportunities in the sugar and ethanol industry - challenges and opportunities towards a low carbon economy in Brazil,21789010
+76,2,2024,A espiritualidade/religiosidade na formação do pedagogo/ professor pesquisado (R) implicado: reflexões autoetnográficas,19830882
+77,2,2024,Desenvolvimento de instrumento de pesquisa para identificação de modelos de elaboração da estratégia em burocracias profissionais: validação de conteúdo,21789010
+78,2,2024,Percepções juvenis sobre as fake news em seus processos de formação e participação políticas,19830882
+79,2,2024,"Juventude, política e fake news: metaestudo das produções acadêmicas em periódicos científicos entre os anos 2009 e 2019",21789010
+80,2,2024,"Transparência, comunicação, informação e movimentos sociais: formação política e participação sociopolítica dos portais institucionais",21789010
+81,2,2024,The complex networks of an entrepreneurship and innovation ecosystem: proposal for a representation model,00105236
+82,2,2022,Architectural design of classroom to stimulate learning in Higher Education,24112933

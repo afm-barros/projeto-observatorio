@@ -1,0 +1,14 @@
+# Ignorar dependências do Apache Hop (O que causou o timeout)
+hop/
+
+# Pastas de ambiente e logs
+venv/
+node_modules/
+__pycache__/
+.env
+*.db
+
+# Ignorar build do Next.js
+.next/
+dist/
+build/
